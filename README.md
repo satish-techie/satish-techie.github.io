@@ -1,3 +1,4 @@
 Click on below link for view
 
-https://satish-techie.github.io/index.html
+<a href="https://satish-techie.github.io/index.html" target="_blank">Home</a>
+
